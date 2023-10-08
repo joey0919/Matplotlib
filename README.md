@@ -1,2 +1,2 @@
 # Matplotlib
-Matplotlib 배우기
+Matplotlib 데이터 시각화 공부
